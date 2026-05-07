@@ -155,4 +155,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by **Senior AI Engineer & Backend Architect**. Suitable for portfolio demonstrations and production-style implementation.
+Developed with Hafiz Muhammad Umar Farooq by **Senior AI Engineer & Backend Architect**. Suitable for portfolio demonstrations and production-style implementation.
